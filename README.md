@@ -1,5 +1,8 @@
 # LanguageAI-Assignment
 
+First, the requirements need to be installed from the Requirements.txt file.
+Whenever there is no library installed from requirements for some reason, go to Terminal and pip install it manually.
+
 Order of running (after 3 the order does not matter): 
 1. `EDA.ipynb`: Exploring the dataset and cleaning dataset. also used to create training and test data. 
 2. `Test.ipynb`:
