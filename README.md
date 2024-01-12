@@ -1,5 +1,9 @@
 # LanguageAI-Assignment
 
+# Introduction
+Welcome to our Language and AI project repository! This project is centered around the use of Natural Language Processing (NLP) techniques to analyze Reddit posts and profile authors into Myers-Briggs Type Indicator (MBTI) personalities. By employing machine learning models such as logistic regression, neural networks with BERT embeddings, and zero-shot DeBERTa models, the team aims to explore and compare their efficacy in accurately classifying MBTI personality types based on textual content. This project is an extension of existing studies, testing additional models and contributing to the broader understanding of digital personality representation.
+
+
 1. First, the requirements need to be installed from the Requirements.txt file.
 2. Whenever there is no library installed from requirements for some reason, go to Terminal and pip install it manually.
 
